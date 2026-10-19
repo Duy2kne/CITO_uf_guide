@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: './',   // đường dẫn tương đối, không phụ thuộc vào tên repo
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
