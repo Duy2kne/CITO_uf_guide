@@ -1,0 +1,8 @@
+{
+  "name": "CITO UF SYSTEM - Hướng Dẫn Sử Dụng & Giả Lập Hoạt Động",
+  "description": "Sổ tay hướng dẫn sử dụng chính thức máy lọc nước bể thủy sinh CITO UF cùng công cụ giả lập kiểm tra hoạt động trực quan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
